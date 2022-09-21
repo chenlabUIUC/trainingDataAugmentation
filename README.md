@@ -13,7 +13,7 @@ Getting started
 ---------------
 1. The augmented training datasets in TIFF format are zip-compressed and stored under folder "training data/".  
 2. The manually labeled images, coresponding labels, and the augmentation codes are under folders "tetrahedra/" and "patchy nanoprism/".  
-3. The jupyter notebook codes (augmentation.ipynb) can be opened by jupyter notebook in Anaconda. The require packages include JupyterLab, TensorFlow, OpenCV, and Pillow. The codes are tested with Python 3.7 without a GPU.  
+3. The jupyter notebook codes (augmentation.ipynb) can be opened by jupyter notebook in Anaconda. The require packages include JupyterLab, TensorFlow, OpenCV, and Pillow. The codes are tested with Python 3.7 without GPU.  
 4. The code reads labels and images under folder "manual label/" and output labels and images into folders "label/" and "train/".  
 
 Note
