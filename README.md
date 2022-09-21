@@ -18,6 +18,7 @@ Getting started
 
 Note
 ---------------
+The "thumbs.db" files are place holders for keeping the empty folders in GitHub, which can be deleted.
 
 Revisions
 ---------------
