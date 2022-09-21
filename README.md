@@ -1,6 +1,7 @@
 # trainingDataAugmentation
 1. Jupyter notebook scripts of augmenting the manually labeled Au tetrahedra and patchy nanoprism TEM images.  
 2. The augmented training datasets of Au tetrahedra and patchy nanoprism used in the publication.   
+
 Date: 09/2022   
 For more information about the project, algorithms, and related publications please refer to the [Chen Group website](https://chenlab.matse.illinois.edu/).
 
