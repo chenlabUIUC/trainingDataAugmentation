@@ -1,5 +1,7 @@
 # trainingDataAugmentation
-Anaconda 
-Python = v3.7
-Keras v2.10.0
-opencv v4.6.0
+Anaconda  
+Python3.7
+packages needed:  
+tensorflow  
+opencv  
+pillow  
